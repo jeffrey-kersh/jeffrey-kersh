@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayii23
-- 👀 I’m interested in databases, data analysis, web-based applications
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in database design and web-based applications
+- 🌱 I’m currently learning javascript through The Odin Project
 - 💞️ I’m looking to collaborate on ... (I'm still just learning tbh)
 - 📫 How to reach me ...
 
