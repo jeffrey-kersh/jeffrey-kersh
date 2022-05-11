@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jayii23
+- 👋 Hi, I’m @jeffrey-kersh
 - 👀 I’m interested in database design, data analysis, data science, and data engineering 
 - 🌱 I’m currently learning Python, R, JavaScript
-- 💞️ I’m looking to collaborate on open source library management software
+- 💞️ I’m looking to collaborate on open source library management software (e.g. FOLIO)
 - 📫 How to reach me --> Discord: Jeffrey#2491
 
 <!---
