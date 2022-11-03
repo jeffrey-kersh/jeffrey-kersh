@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jeffrey-kersh
 - 👀 I’m interested in all things data - data modeling, data architecture, data engineering, database design, data analysis, and data science
-- 🌱 I’m currently learning Python (NumPy & Pandas), JavaScript (The Odin Project)
-- 💞️ I’m looking to collaborate on open source library management software (e.g. FOLIO)
+- 🌱 I’m currently learning Python (NumPy & Pandas), Web Development (Laravel)
 - 📫 How to reach me --> Discord: Jeffrey#2491
 
 <!---
